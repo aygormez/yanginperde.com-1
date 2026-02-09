@@ -23,7 +23,7 @@ jobs:
           target: "/home/gespera/web/yanginperde.com/app"
           rm: false
           strip_components: 0
-          exclude: "node_modules,.git,.github,.env.local,.env*.local,deploy*.sh,README.md,*.log"
+          strip_components: 0
 
       - name: Execute remote commands via ssh
         uses: appleboy/ssh-action@v1.0.3
