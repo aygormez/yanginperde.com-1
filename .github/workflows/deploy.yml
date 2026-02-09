@@ -27,7 +27,6 @@ jobs:
           rsync -avz --delete \
             --exclude 'node_modules' \
             --exclude '.next' \
-            --exclude 'node_modules_ROOT_OWNED_BACKUP' \
             --exclude '.git' \
             --exclude '.github' \
             --exclude '.env.local' \
