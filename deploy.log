@@ -1,0 +1,137 @@
+
+ð GESPERA.com Deployment Başlıyor...
+
+ð Dizinler oluşturuluyor...
+
+spawn ssh -p 22 gespera@aymez.com
+gespera@aymez.com's password: 
+Welcome to Ubuntu 22.04.5 LTS (GNU/Linux 5.15.0-153-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+ System information as of Fri Jan 23 04:55:12 +03 2026
+
+  System load:  0.08               Processes:             134
+  Usage of /:   32.7% of 57.97GB   Users logged in:       1
+  Memory usage: 60%                IPv4 address for eth0: 46.101.119.185
+  Swap usage:   28%                IPv4 address for eth0: 10.19.0.6
+
+Expanded Security Maintenance for Applications is not enabled.
+
+123 updates can be applied immediately.
+1 of these updates is a standard security update.
+To see these additional updates run: apt list --upgradable
+
+20 additional security updates can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+
+The list of available updates is more than a week old.
+To check for new updates run: sudo apt update
+
+Last login: Fri Jan 23 04:55:16 2026 from 95.70.240.43
+gespera@aymez:~$ mkdir -p /home/gespera/web/gespera.com/app
+mkdir: cannot create directory ‘/home/gespera/web/gespera.com/app’: Permission denied
+gespera@aymez:~$ mkdir -p /home/gespera/web/gespera.com/public_html
+gespera@aymez:~$ exit
+logout
+Connection to aymez.com closed.
+
+ð¦ Dosyalar sunucuya kopyalanıyor...
+
+spawn rsync -avz --exclude 'node_modules' --exclude '.next' --exclude '.git' --exclude '.env.local' --exclude '.env*.local' --exclude '*.log' --exclude 'deploy*.sh' --exclude '.github' ./ gespera@aymez.com:/home/gespera/web/gespera.com/app/
+gespera@aymez.com's password: 
+Transfer starting: 27428 files
+rsync: [Receiver] mkdir "/home/gespera/web/gespera.com/app" failed: Permission denied (13)
+rsync error: error in file IO (code 11) at main.c(791) [Receiver=3.2.7]
+rsync(3681): error: unexpected end of file
+rsync(3681): error: io_read_nonblocking
+rsync(3681): error: io_read_blocking
+rsync(3681): error: io_read_flush
+rsync(3681): error: rsync_sender
+rsync(3681): warning: child 3684 exited with status 11
+
+ð¨ Sunucuda build alınıyor...
+
+spawn ssh -p 22 gespera@aymez.com
+gespera@aymez.com's password: 
+Welcome to Ubuntu 22.04.5 LTS (GNU/Linux 5.15.0-153-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+ System information as of Fri Jan 23 04:55:12 +03 2026
+
+  System load:  0.08               Processes:             134
+  Usage of /:   32.7% of 57.97GB   Users logged in:       1
+  Memory usage: 60%                IPv4 address for eth0: 46.101.119.185
+  Swap usage:   28%                IPv4 address for eth0: 10.19.0.6
+
+Expanded Security Maintenance for Applications is not enabled.
+
+123 updates can be applied immediately.
+1 of these updates is a standard security update.
+To see these additional updates run: apt list --upgradable
+
+20 additional security updates can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+
+The list of available updates is more than a week old.
+To check for new updates run: sudo apt update
+
+Last login: Fri Jan 23 04:55:31 2026 from 95.70.240.43
+gespera@aymez:~$ cd /home/gespera/web/gespera.com/app
+-bash: cd: /home/gespera/web/gespera.com/app: No such file or directory
+gespera@aymez:~$ pwd
+/home/gespera
+gespera@aymez:~$ ls -la | head -10
+total 76
+drwx------+ 14 gespera gespera 4096 Jan 23 04:55 .
+drwxr-xr-x  18 root    root    4096 Jan 22 23:09 ..
+-rw-------   1 gespera gespera  597 Jan 23 04:55 .bash_history
+-rw-r--r--   1 gespera gespera  220 Jan  6  2022 .bash_logout
+-rw-r--r--   1 gespera gespera 3771 Jan  6  2022 .bashrc
+drwxr-xr-x   2 gespera gespera 4096 Jan 23 04:41 .cache
+-rw-r--r--   1 gespera gespera    0 Sep 19 03:30 .cloud-locale-test.skip
+drwxr-xr-x   2 gespera gespera 4096 Jan 22 23:06 .composer
+drwxr-xr-x   2 gespera gespera 4096 Jan 22 23:06 .config
+gespera@aymez:~$ echo 'ð¥ Dependencies yükleniyor...'
+ð¥ Dependencies yükleniyor...
+gespera@aymez:~$ npm install
+[1mnpm[22m [31merror[39m [94mcode[39m ENOENT
+[1mnpm[22m [31merror[39m [94msyscall[39m open
+[1mnpm[22m [31merror[39m [94mpath[39m /home/gespera/package.json
+[1mnpm[22m [31merror[39m [94merrno[39m [33m-2[39m
+[1mnpm[22m [31merror[39m [94menoent[39m Could not read package.json: Error: ENOENT: no such file or directory, open '/home/gespera/package.json'
+[1mnpm[22m [31merror[39m [94menoent[39m This is related to npm not being able to find a file.
+[1mnpm[22m [31merror[39m [94menoent[39m
+[1mnpm[22m [31merror[39m A complete log of this run can be found in: /home/gespera/.npm/_logs/2026-01-23T01_55_35_722Z-debug-0.log
+gespera@aymez:~$ echo 'ð¨ Build alınıyor...'
+ð¨ Build alınıyor...
+gespera@aymez:~$ npm run build
+[1mnpm[22m [31merror[39m [94mcode[39m ENOENT
+[1mnpm[22m [31merror[39m [94msyscall[39m open
+[1mnpm[22m [31merror[39m [94mpath[39m /home/gespera/package.json
+[1mnpm[22m [31merror[39m [94merrno[39m [33m-2[39m
+[1mnpm[22m [31merror[39m [94menoent[39m Could not read package.json: Error: ENOENT: no such file or directory, open '/home/gespera/package.json'
+[1mnpm[22m [31merror[39m [94menoent[39m This is related to npm not being able to find a file.
+[1mnpm[22m [31merror[39m [94menoent[39m
+[1mnpm[22m [31merror[39m A complete log of this run can be found in: /home/gespera/.npm/_logs/2026-01-23T01_55_36_377Z-debug-0.log
+gespera@aymez:~$ echo 'ð Dosya izinleri ayarlanıyor...'
+ð Dosya izinleri ayarlanıyor...
+gespera@aymez:~$ chmod 600 .env.local 2>/dev/null || true
+gespera@aymez:~$ chmod 700 . 2>/dev/null || true
+gespera@aymez:~$ </home/gespera/web/gespera.com/app && npm start'; fi
+⚠️ PM2 bulunamadı. Manuel başlatın: cd /home/gespera/web/gespera.com/app && npm start
+gespera@aymez:~$ echo '✅ Deploy tamamlandı!'
+✅ Deploy tamamlandı!
+gespera@aymez:~$ exit
+logout
+Connection to aymez.com closed.
+
+ð Deployment başarıyla tamamlandı!
+

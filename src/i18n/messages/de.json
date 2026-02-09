@@ -1,0 +1,323 @@
+{
+    "metadata": {
+        "title": "YANGIN PERDE | Brandschutz- und Rauchschutzsysteme",
+        "description": "Die vertrauenswürdige Marke in der Türkei für Feuerschutzvorhänge, Rauchschutzvorhänge, Fördersystem-Abschlüsse und automatische Feuerschutzvorhänge. Moderne Brandschutzlösungen.",
+        "keywords": "Feuerschutzvorhang, Rauchschutzvorhang, automatischer Vorhang, Fördersystem, Brandschutz, Brandschutztür"
+    },
+    "nav": {
+        "home": "Startseite",
+        "products": "Produkte",
+        "allProducts": "Alle Produkte anzeigen",
+        "outdoor": "Brandschutzsysteme",
+        "indoor": "Rauchschutzsysteme",
+        "customSolutions": "Individuelle Lösungen",
+        "about": "Über uns",
+        "projects": "Projekte",
+        "contact": "Kontakt",
+        "login": "Anmelden",
+        "getQuote": "Angebot anfordern",
+        "search": "Suchen"
+    },
+    "hero": {
+        "badge": "Brandschutzsysteme",
+        "title": "Für Ihre Sicherheit",
+        "titleHighlight": "Innovative Lösungen",
+        "subtitle": "Schützen Sie Ihre Wohnräume und Unternehmen mit Brand- und Rauchschutzsystemen.",
+        "cta": "Produkte erkunden",
+        "ctaSecondary": "Angebot anfordern",
+        "stats": {
+            "years": "Jahre Erfahrung",
+            "projects": "Projekte",
+            "dealers": "Händler",
+            "satisfaction": "Kundenzufriedenheit"
+        },
+        "showcase": "Feuerschutzvorhang-Systeme",
+        "warranty": "Zertifizierte Produktion",
+        "warrantyDesc": "Internationale Standards",
+        "delivery": "Professionelle Installation",
+        "deliveryTime": "Schnelle Installation"
+    },
+    "categories": {
+        "title": "Unsere Produktkategorien",
+        "subtitle": "Brand- und Rauchschutzlösungen für jeden Bedarf",
+        "viewAll": "Alle anzeigen",
+        "viewMore": "Mehr erfahren",
+        "outdoor": "Brandschutzsysteme",
+        "indoor": "Rauchschutzsysteme"
+    },
+    "whyGespera": {
+        "title": "Warum YANGIN PERDE?",
+        "subtitle": "Wir streben Exzellenz für Ihre Sicherheit an",
+        "quality": {
+            "title": "Hohe Qualität",
+            "description": "Produktionsqualität nach europäischem Standard und zertifizierte Materialien"
+        },
+        "experience": {
+            "title": "25+ Jahre Erfahrung",
+            "description": "Zuverlässige Lösungen mit unserer etablierten Erfahrung in der Branche"
+        },
+        "warranty": {
+            "title": "Garantie",
+            "description": "Erweiterte Garantie und After-Sales-Support für alle unsere Produkte"
+        },
+        "installation": {
+            "title": "Professionelle Installation",
+            "description": "Schneller und fehlerfreier Installationsservice mit unseren Expertenteams"
+        },
+        "customization": {
+            "title": "Individuelles Design",
+            "description": "Anpassung mit projektspezifischen Abmessungen und Merkmalen"
+        }
+    },
+    "featuredProducts": {
+        "title": "Ausgewählte Produkte",
+        "subtitle": "Unsere bevorzugten Brandschutzsysteme",
+        "viewProduct": "Produkt anzeigen"
+    },
+    "partners": {
+        "badge": "Unsere Partner",
+        "title": "Zusammenarbeit mit weltweit führenden Marken",
+        "subtitle": "Wir sind Partner der renommiertesten Brandschutz- und Automatisierungsmarken der Welt",
+        "stats": {
+            "globalBrands": "Globale Marken",
+            "yearsPartnership": "Jahre Partnerschaft",
+            "originalParts": "Originalteile",
+            "exportCountries": "Exportländer"
+        }
+    },
+    "references": {
+        "title": "Unsere Projekte",
+        "subtitle": "Beispiele aus unseren erfolgreich abgeschlossenen Projekten",
+        "viewAll": "Alle Projekte anzeigen"
+    },
+    "process": {
+        "title": "Wie wir arbeiten",
+        "subtitle": "Einfaches und transparentes Prozessmanagement",
+        "step1": {
+            "title": "Entdeckung & Analyse",
+            "description": "Wir analysieren Ihre Projektanforderungen und das Brandrisiko im Detail"
+        },
+        "step2": {
+            "title": "Design & Angebot",
+            "description": "Wir bieten individuelle Lösungen und detaillierte Preisgestaltung"
+        },
+        "step3": {
+            "title": "Produktion",
+            "description": "Wir fertigen nach zertifizierten internationalen Standards"
+        },
+        "step4": {
+            "title": "Installation & Lieferung",
+            "description": "Wir schließen die Installation und Prüfung mit unserem professionellen Team ab"
+        }
+    },
+    "seo": {
+        "title": "Die vertrauenswürdige Brandschutzmarke der Türkei",
+        "content": "Als YANGIN PERDE sind wir eine der führenden Marken der Türkei mit einem breiten Angebot von Feuervorhängen bis zu Rauchschutzlösungen. Europäische Qualitätsstandards und Tausende erfolgreiche Projekte.",
+        "categories": "Unsere Produktkategorien"
+    },
+    "cta": {
+        "title": "Kostenlose Beratung für Ihr Projekt",
+        "subtitle": "Lassen Sie unser Expertenteam Sie kontaktieren",
+        "button": "Jetzt kontaktieren",
+        "secondaryButton": "Produkte erkunden"
+    },
+    "footer": {
+        "description": "Die vertrauenswürdige Marke der Türkei für Brand- und Rauchschutzsysteme.",
+        "quickLinks": "Schnelllinks",
+        "products": "Produkte",
+        "contact": "Kontakt",
+        "address": "Adresse",
+        "phone": "Telefon",
+        "email": "E-Mail",
+        "copyright": "© 2024 YANGIN PERDE. Alle Rechte vorbehalten.",
+        "privacy": "Datenschutzrichtlinie",
+        "terms": "Nutzungsbedingungen",
+        "company": "YMA Yapı Sistemleri San. ve Tic. Ltd. Şti."
+    },
+    "products": {
+        "title": "Unsere Produkte",
+        "subtitle": "Entdecken Sie Brandschutzlösungen, die Ihren Bedürfnissen entsprechen",
+        "filter": {
+            "all": "Alle",
+            "zipScreen": "Feuerschutzvorhang",
+            "storPerde": "Rauchschutzvorhang",
+            "tente": "Fördersystem",
+            "camBalkon": "Fester Vorhang",
+            "pergola": "Automatischer Vorhang"
+        },
+        "card": {
+            "viewDetails": "Details anzeigen",
+            "getQuote": "Angebot anfordern"
+        }
+    },
+    "productDetail": {
+        "specifications": "Technische Spezifikationen",
+        "features": "Funktionen",
+        "usageAreas": "Anwendungsbereiche",
+        "advantages": "Vorteile",
+        "relatedProducts": "Verwandte Produkte",
+        "getQuote": "Angebot anfordern",
+        "downloadCatalog": "Katalog herunterladen",
+        "breadcrumb": {
+            "home": "Startseite",
+            "products": "Produkte"
+        }
+    },
+    "about": {
+        "title": "Über uns",
+        "subtitle": "Brandschutz ist nicht nur ein Produkt; es ist die wichtigste Investition zum Schutz menschlichen Lebens.",
+        "experienceYears": "25+",
+        "experienceLabel": "Jahre Branchenerfahrung",
+        "story": {
+            "p1": "YANGIN PERDE verbindet über 25 Jahre Branchenwissen und Felderfahrung mit den modernen Brandschutzanforderungen von Gebäuden, um funktionale, langlebige und qualitativ hochwertige Standardlösungen zu entwickeln.",
+            "p2": "Von Wohnprojekten bis zu großmaßstäblichen Gewerbebauten; von Krankenhäusern bis zu Industrieanlagen, von Bildungsgebäuden bis zu speziellen Architekturanwendungen behandeln wir jedes Projekt mit derselben Ernsthaftigkeit und Sorgfalt.",
+            "p3": "In jedem Projekt bewerten wir Brandszenario, Nutzungszweck, architektonische Kompatibilität und internationale Standards (EN, UL usw.) gemeinsam; wir zielen darauf ab, Systeme zu produzieren, die nicht nur Verfahren entsprechen, sondern volle Lebenssicherheit gewährleisten.",
+            "p4": "In Design-, Produktions- und Umsetzungsprozessen arbeiten wir mit Architekten, Ingenieuren und Brandschutzberatern im Sinne gemeinsamer Vernunft; wir entwickeln projektspezifische, richtige und nachhaltige Systeme statt Standardlösungen.",
+            "p5": "Mit unserem Ansatz, der Qualität als Notwendigkeit und nicht als Option betrachtet, legen wir Wert auf langfristige Partnerschaften in Produktzuverlässigkeit, korrekten technischen Details und Kundendienst.",
+            "p6": "Heute setzen wir unseren Weg als Struktur fort, die verfeinerte, selektivere und höhersegmentige Lösungen auf dem soliden Fundament vergangener Erfahrung bietet."
+        },
+        "valuesSection": {
+            "title": "Unsere Werte & Arbeitsprinzipien",
+            "architectural": {
+                "title": "Ingenieuransatz",
+                "content": "Wir behandeln Brandschutz als Ingenieurdisziplin. Wir detaillieren jede Lösung im Rahmen von Risikoanalyse und technischen Anforderungen."
+            },
+            "projectSpecific": {
+                "title": "Projektspezifische Lösung",
+                "content": "Statt Standardformen fertigen wir in speziellen Größen und Merkmalen, die der Gefahrenklasse und Architektur des Projekts entsprechen."
+            },
+            "qualityStandard": {
+                "title": "Zertifizierte Sicherheit",
+                "content": "Wir akzeptieren die Konformität und Zertifizierung unserer Produkte mit internationalen Feuerwiderstandsstandards als grundlegende Bedingung."
+            },
+            "collaboration": {
+                "title": "Expertenzusammenarbeit",
+                "content": "Wir arbeiten eng mit Brandschutzberatern und Projektverfassern zusammen, um Lösungen zu produzieren, die voll und ganz den Vorschriften entsprechen."
+            },
+            "sustainability": {
+                "title": "Nachhaltigkeit",
+                "content": "Wir fertigen unsere Systeme aus nachhaltigen Materialien, die viele Jahre reibungslos funktionieren und Wartungsfreundlichkeit bieten."
+            },
+            "afterDelivery": {
+                "title": "24/7 Technischer Support",
+                "content": "Brandschutz akzeptiert keine Unterbrechungen. Wir stellen sicher, dass Systeme mit unserem After-Sales-Wartungs- und Service jederzeit betriebsbereit sind."
+            }
+        }
+    },
+    "customSolutions": {
+        "meta": {
+            "title": "Individuelle Lösungen | YANGIN PERDE",
+            "description": "Projektspezifische Brand- und Rauchschutzlösungen: Brandschutzberatung, Sonderfertigung und technischer Support."
+        },
+        "title": "Individuelle Lösungen",
+        "subtitle": "Wir entwickeln projektspezifische Lösungen für komplexe architektonische Strukturen und spezielle Brandszenarien.",
+        "intro": "Jede Gebäudebrandrisikoanalyse ist anders. Als YANGIN PERDE bieten wir spezielle Lösungen, die für Ihr Architekturprojekt und Brandszenario geeignet sind.",
+        "services": {
+            "consulting": {
+                "title": "Projektberatung",
+                "description": "Wir beraten Sie bei Produktauswahl, technischen Details und Umsetzungsstrategie entsprechend Ihrem Projektmaßstab und Ihren Anforderungen."
+            },
+            "customProduction": {
+                "title": "Sonderfertigung",
+                "description": "Wir fertigen nach Ihren projektspezifischen Maßen, Farben und Materialien jenseits von Standardgrößen."
+            },
+            "getQuote": {
+                "title": "Angebot anfordern",
+                "description": "Teilen Sie uns Ihre Anforderungen mit; wir erstellen eine maßgeschneiderte Lösungsempfehlung und ein detailliertes Preisangebot."
+            }
+        },
+        "ctaContact": "Kontakt aufnehmen",
+        "ctaTitle": "Lassen Sie uns den nächsten Schritt für Ihr Projekt gehen",
+        "ctaSubtitle": "Lassen Sie uns Ihren Bedarf an individuellen Lösungen gemeinsam bewerten. Unser Expertenteam meldet sich bei Ihnen."
+    },
+    "projects": {
+        "title": "Referenzen",
+        "subtitle": "Beispiele aus unseren erfolgreich abgeschlossenen Projekten",
+        "filter": {
+            "all": "Alle",
+            "residential": "Wohngebäude",
+            "commercial": "Gewerblich",
+            "hotel": "Hotel & Einkaufszentrum",
+            "villa": "Industriell"
+        },
+        "viewProject": "Projekt anzeigen"
+    },
+    "contact": {
+        "title": "Kontakt",
+        "subtitle": "Wir freuen uns darauf, mit Ihnen in Kontakt zu treten",
+        "getInTouch": "Kontakt aufnehmen",
+        "form": {
+            "name": "Vollständiger Name",
+            "email": "E-Mail",
+            "phone": "Telefon",
+            "subject": "Betreff",
+            "message": "Ihre Nachricht",
+            "messagePlaceholder": "Schreiben Sie hier Ihre Nachricht...",
+            "submit": "Absenden",
+            "sending": "Wird gesendet...",
+            "success": "Ihre Nachricht wurde erfolgreich gesendet!",
+            "successDesc": "Wir werden uns so schnell wie möglich bei Ihnen melden.",
+            "error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+            "recaptchaRequired": "Bitte bestätigen Sie, dass Sie kein Roboter sind",
+            "sendAnother": "Weitere Nachricht senden"
+        },
+        "info": {
+            "title": "Kontaktinformationen",
+            "address": "Hamidiye Mah. Kemerburgaz Cad. No: 152/6, Kağıthane - Istanbul, Türkei",
+            "phone": "0212 294 82 80",
+            "mobile": "0532 294 34 36",
+            "email": "info@yanginperde.com",
+            "workingHours": "Arbeitszeiten",
+            "weekdays": "Montag - Samstag: 09:00 - 18:00",
+            "weekend": "Sonntag: Geschlossen"
+        }
+    },
+    "legal": {
+        "privacy": {
+            "title": "Datenschutzrichtlinie",
+            "lastUpdated": "Zuletzt aktualisiert"
+        },
+        "terms": {
+            "title": "Nutzungsbedingungen",
+            "lastUpdated": "Zuletzt aktualisiert"
+        }
+    },
+    "common": {
+        "loading": "Wird geladen...",
+        "error": "Ein Fehler ist aufgetreten",
+        "backToHome": "Zurück zur Startseite",
+        "learnMore": "Mehr erfahren",
+        "seeAll": "Alle anzeigen",
+        "readMore": "Mehr lesen"
+    },
+    "outdoor": {
+        "meta": {
+            "title": "Feuerschutzvorhänge | YANGIN PERDE",
+            "description": "Feuerschutzvorhang, Rauchschutzvorhang, Fördersysteme. Professionelle Lösungen für Brandschutz."
+        },
+        "title": "Brandschutzsysteme",
+        "subtitle": "Feuerschutzvorhang, Rauchschutzvorhang, Automatische Vorhänge und Fördersysteme",
+        "getQuote": "Angebot anfordern",
+        "productsTitle": "Zertifizierte Lösungen für Brandschutz",
+        "productsSubtitle": "Sorgen Sie für Lebens- und Eigentumssicherheit mit unseren internationalen Standards entsprechenden, getesteten und zertifizierten Feuer- und Rauchschutzvorhangsystemen.",
+        "viewDetails": "Produktdetails",
+        "ctaTitle": "Zuverlässige, elegante und langlebige Lösungen.",
+        "ctaSubtitle": "Lassen Sie unser professionelles Team die beste Lösung für Sie bestimmen.",
+        "ctaButton": "Kostenlose Beratung anfordern"
+    },
+    "indoor": {
+        "meta": {
+            "title": "Rauchschutzsysteme | YANGIN PERDE",
+            "description": "Feste Rauchschutzvorhänge, Automatische Rauchschutzvorhänge. Professionelle Lösungen für Rauchabzug und -kontrolle."
+        },
+        "title": "Rauchschutzsysteme",
+        "subtitle": "Feste Rauchschutzvorhänge, Automatische Rauchschutzvorhänge und Rauchabzugssysteme",
+        "getQuote": "Angebot anfordern",
+        "productsTitle": "Systeme zur Verhinderung von Rauchausbreitung",
+        "productsSubtitle": "Entdecken Sie unsere Rauchschutzsysteme, die im Brandfall durch Verhinderung der Rauchausbreitung sichere Fluchtwege schaffen.",
+        "viewDetails": "Produktdetails",
+        "ctaTitle": "Sichere und funktionale Lösungen für Ihre Wohnräume.",
+        "ctaSubtitle": "Lassen Sie unser Expertenteam das am besten geeignete Rauchschutzsystem für Ihren Raum bestimmen.",
+        "ctaButton": "Kostenlose Beratung anfordern"
+    }
+}

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <text x="10" y="40" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#1B365D" letter-spacing="1">PROSTOR</text>
+  <path d="M175 20 L185 30 L175 40" stroke="#E31E24" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 20 L190 30 L180 40" stroke="#E31E24" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

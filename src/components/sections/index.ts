@@ -1,0 +1,11 @@
+export { default as Hero } from "./Hero";
+export { default as ProductCategories } from "./ProductCategories";
+export { default as WhyYanginPerde } from "./WhyYanginPerde";
+export { default as TechnicalSpecs } from "./TechnicalSpecs";
+export { default as HowItWorks } from "./HowItWorks";
+export { default as FeaturedProducts } from "./FeaturedProducts";
+export { default as Partners } from "./Partners";
+export { default as References } from "./References";
+export { default as Process } from "./Process";
+export { default as SEOContent } from "./SEOContent";
+export { default as CTASection } from "./CTASection";

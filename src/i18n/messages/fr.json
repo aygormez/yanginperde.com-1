@@ -1,0 +1,323 @@
+{
+    "metadata": {
+        "title": "YANGIN PERDE | Systèmes de Contrôle Incendie et Fumée",
+        "description": "La marque de confiance de la Turquie en rideaux coupe-feu, rideaux de fumée, systèmes de convoyeur et rideaux coupe-feu automatiques. Solutions modernes de sécurité incendie.",
+        "keywords": "rideau coupe-feu, rideau de fumée, rideau automatique, système de convoyeur, sécurité incendie, porte coupe-feu"
+    },
+    "nav": {
+        "home": "Accueil",
+        "products": "Produits",
+        "allProducts": "Voir Tous les Produits",
+        "outdoor": "Systèmes Incendie",
+        "indoor": "Systèmes de Fumée",
+        "customSolutions": "Solutions Personnalisées",
+        "about": "À Propos",
+        "projects": "Projets",
+        "contact": "Contact",
+        "login": "Connexion",
+        "getQuote": "Demander un Devis",
+        "search": "Rechercher"
+    },
+    "hero": {
+        "badge": "Systèmes de Sécurité Incendie",
+        "title": "Pour Votre Sécurité",
+        "titleHighlight": "Solutions Innovantes",
+        "subtitle": "Protégez vos espaces de vie et vos entreprises avec des systèmes de contrôle incendie et fumée.",
+        "cta": "Explorer les Produits",
+        "ctaSecondary": "Demander un Devis",
+        "stats": {
+            "years": "Années d'Expérience",
+            "projects": "Projets",
+            "dealers": "Revendeurs",
+            "satisfaction": "Satisfaction Client"
+        },
+        "showcase": "Systèmes de Rideaux Coupe-Feu",
+        "warranty": "Production Certifiée",
+        "warrantyDesc": "Normes Internationales",
+        "delivery": "Installation Professionnelle",
+        "deliveryTime": "Installation Rapide"
+    },
+    "categories": {
+        "title": "Nos Catégories de Produits",
+        "subtitle": "Solutions de contrôle incendie et fumée pour tous les besoins",
+        "viewAll": "Voir Tout",
+        "viewMore": "En Savoir Plus",
+        "outdoor": "Systèmes Incendie",
+        "indoor": "Systèmes de Fumée"
+    },
+    "whyGespera": {
+        "title": "Pourquoi YANGIN PERDE?",
+        "subtitle": "Nous visons l'excellence pour votre sécurité",
+        "quality": {
+            "title": "Haute Qualité",
+            "description": "Qualité de production selon les normes européennes et matériaux certifiés"
+        },
+        "experience": {
+            "title": "25+ Ans d'Expérience",
+            "description": "Solutions fiables avec notre expérience établie dans le secteur"
+        },
+        "warranty": {
+            "title": "Garantie",
+            "description": "Garantie étendue et support après-vente sur tous nos produits"
+        },
+        "installation": {
+            "title": "Installation Professionnelle",
+            "description": "Service d'installation rapide et sans faille avec nos équipes d'experts"
+        },
+        "customization": {
+            "title": "Design Personnalisé",
+            "description": "Personnalisation avec dimensions et caractéristiques spécifiques au projet"
+        }
+    },
+    "featuredProducts": {
+        "title": "Produits en Vedette",
+        "subtitle": "Nos systèmes de sécurité incendie les plus préférés",
+        "viewProduct": "Voir le Produit"
+    },
+    "partners": {
+        "badge": "Nos Partenaires",
+        "title": "Travailler avec les Marques Mondiales Leaders",
+        "subtitle": "Nous sommes le partenaire des marques de sécurité incendie et d'automatisation les plus prestigieuses du monde",
+        "stats": {
+            "globalBrands": "Marques Mondiales",
+            "yearsPartnership": "Années de Partenariat",
+            "originalParts": "Pièces Originales",
+            "exportCountries": "Pays d'Exportation"
+        }
+    },
+    "references": {
+        "title": "Nos Projets",
+        "subtitle": "Exemples de nos projets complétés avec succès",
+        "viewAll": "Voir Tous les Projets"
+    },
+    "process": {
+        "title": "Comment Nous Travaillons",
+        "subtitle": "Gestion de processus simple et transparente",
+        "step1": {
+            "title": "Découverte et Analyse",
+            "description": "Nous analysons les exigences de votre projet et le risque incendie en détail"
+        },
+        "step2": {
+            "title": "Design et Devis",
+            "description": "Nous fournissons des solutions personnalisées et des prix détaillés"
+        },
+        "step3": {
+            "title": "Production",
+            "description": "Nous fabriquons selon les normes internationales certifiées"
+        },
+        "step4": {
+            "title": "Installation et Livraison",
+            "description": "Nous complétons l'installation et les tests avec notre équipe professionnelle"
+        }
+    },
+    "seo": {
+        "title": "La Marque de Sécurité Incendie de Confiance de la Turquie",
+        "content": "En tant que YANGIN PERDE, nous sommes l'une des marques leaders de la Turquie avec une large gamme allant des rideaux coupe-feu aux solutions de contrôle de fumée. Normes de qualité européennes et des milliers de projets réussis.",
+        "categories": "Nos Catégories de Produits"
+    },
+    "cta": {
+        "title": "Consultation Gratuite pour Votre Projet",
+        "subtitle": "Laissez notre équipe d'experts vous contacter",
+        "button": "Nous Contacter Maintenant",
+        "secondaryButton": "Explorer les Produits"
+    },
+    "footer": {
+        "description": "La marque de confiance de la Turquie en systèmes de contrôle incendie et fumée.",
+        "quickLinks": "Liens Rapides",
+        "products": "Produits",
+        "contact": "Contact",
+        "address": "Adresse",
+        "phone": "Téléphone",
+        "email": "Email",
+        "copyright": "© 2024 YANGIN PERDE. Tous droits réservés.",
+        "privacy": "Politique de Confidentialité",
+        "terms": "Conditions d'Utilisation",
+        "company": "YMA Yapı Sistemleri San. ve Tic. Ltd. Şti."
+    },
+    "products": {
+        "title": "Nos Produits",
+        "subtitle": "Découvrez les solutions de sécurité incendie qui répondent à vos besoins",
+        "filter": {
+            "all": "Tous",
+            "zipScreen": "Rideau Coupe-Feu",
+            "storPerde": "Rideau de Fumée",
+            "tente": "Système de Convoyeur",
+            "camBalkon": "Rideau Fixe",
+            "pergola": "Rideau Auto"
+        },
+        "card": {
+            "viewDetails": "Voir les Détails",
+            "getQuote": "Demander un Devis"
+        }
+    },
+    "productDetail": {
+        "specifications": "Spécifications Techniques",
+        "features": "Caractéristiques",
+        "usageAreas": "Zones d'Utilisation",
+        "advantages": "Avantages",
+        "relatedProducts": "Produits Associés",
+        "getQuote": "Demander un Devis",
+        "downloadCatalog": "Télécharger le Catalogue",
+        "breadcrumb": {
+            "home": "Accueil",
+            "products": "Produits"
+        }
+    },
+    "about": {
+        "title": "À Propos",
+        "subtitle": "La sécurité incendie n'est pas qu'un produit ; c'est l'investissement le plus important protégeant la vie humaine.",
+        "experienceYears": "25+",
+        "experienceLabel": "Années d'expérience sectorielle",
+        "story": {
+            "p1": "YANGIN PERDE combine plus de 25 ans de connaissances sectorielles et d'expérience de terrain avec les besoins modernes de sécurité incendie des bâtiments pour développer des solutions fonctionnelles, durables et de haute qualité.",
+            "p2": "Des projets résidentiels aux bâtiments commerciaux à grande échelle ; des hôpitaux aux installations industrielles, des bâtiments éducatifs aux applications architecturales spéciales, nous traitons chaque projet avec le même sérieux et la même rigueur.",
+            "p3": "Dans chaque projet, nous évaluons ensemble le scénario d'incendie, l'usage prévu, la compatibilité architecturale et les normes internationales (EN, UL, etc.) ; nous visons à produire des systèmes qui non seulement respectent les procédures mais assurent également une sécurité totale des personnes.",
+            "p4": "Dans les processus de conception, de production et de mise en œuvre, nous travaillons avec des architectes, des ingénieurs et des consultants en incendie dans une approche de bon sens ; nous développons des systèmes spécifiques au projet, corrects et durables plutôt que des solutions standard.",
+            "p5": "Avec notre approche qui considère la qualité non pas comme un choix mais comme une nécessité ; nous nous soucions d'établir des partenariats à long terme en matière de fiabilité des produits, de détails techniques corrects et de support après-vente.",
+            "p6": "Aujourd'hui, nous continuons notre chemin en tant que structure offrant des solutions plus raffinées, plus sélectives et de segment supérieur sur la base solide fournie par l'expérience passée."
+        },
+        "valuesSection": {
+            "title": "Nos Valeurs et Principes de Travail",
+            "architectural": {
+                "title": "Approche Ingénierie",
+                "content": "Nous traitons la sécurité incendie comme une discipline d'ingénierie. Nous détaillons chaque solution dans le cadre de l'analyse des risques et des exigences techniques."
+            },
+            "projectSpecific": {
+                "title": "Solution Spécifique au Projet",
+                "content": "Au lieu de moules standard, nous fabriquons dans des dimensions et des caractéristiques spéciales adaptées à la classe de danger et à l'architecture du projet."
+            },
+            "qualityStandard": {
+                "title": "Sécurité Certifiée",
+                "content": "Nous acceptons la conformité et la certification de nos produits aux normes internationales de résistance au feu comme une condition fondamentale."
+            },
+            "collaboration": {
+                "title": "Collaboration d'Experts",
+                "content": "Nous travaillons en contact étroit avec les consultants en incendie et les auteurs de projets pour produire des solutions entièrement conformes aux réglementations."
+            },
+            "sustainability": {
+                "title": "Durabilité",
+                "content": "Nous fabriquons nos systèmes à partir de matériaux durables qui fonctionneront sans problème pendant de nombreuses années et faciliteront l'entretien."
+            },
+            "afterDelivery": {
+                "title": "Support Technique 24/7",
+                "content": "La sécurité incendie n'accepte pas les interruptions. Nous assurons que les systèmes sont opérationnels à tout moment grâce à notre maintenance et service après-vente."
+            }
+        }
+    },
+    "customSolutions": {
+        "meta": {
+            "title": "Solutions Sur Mesure | YANGIN PERDE",
+            "description": "Solutions de contrôle incendie et fumée spécifiques au projet : Conseil incendie, production sur mesure et support technique."
+        },
+        "title": "Solutions Sur Mesure",
+        "subtitle": "Nous développons des solutions spécifiques au projet pour des structures architecturales complexes et des scénarios d'incendie spéciaux.",
+        "intro": "L'analyse des risques d'incendie de chaque bâtiment est différente. En tant que YANGIN PERDE, nous proposons des solutions spéciales adaptées à votre projet architectural et à votre scénario d'incendie.",
+        "services": {
+            "consulting": {
+                "title": "Conseil Projet",
+                "description": "Nous fournissons des conseils sur le choix des produits, les détails techniques et la stratégie de mise en œuvre selon l'échelle et les besoins de votre projet."
+            },
+            "customProduction": {
+                "title": "Production Sur Mesure",
+                "description": "Nous fabriquons selon vos dimensions, couleurs et matériaux spécifiques au projet au-delà des dimensions standard."
+            },
+            "getQuote": {
+                "title": "Demander un Devis",
+                "description": "Partagez vos besoins ; nous préparerons une proposition de solution sur mesure et un devis détaillé."
+            }
+        },
+        "ctaContact": "Nous contacter",
+        "ctaTitle": "Passons à l'étape suivante pour votre projet",
+        "ctaSubtitle": "Évaluons ensemble vos besoins en solutions sur mesure. Notre équipe d'experts vous contactera."
+    },
+    "projects": {
+        "title": "Références",
+        "subtitle": "Exemples de nos projets complétés avec succès",
+        "filter": {
+            "all": "Tous",
+            "residential": "Résidentiel",
+            "commercial": "Commercial",
+            "hotel": "Hôtel et Centre Commercial",
+            "villa": "Industriel"
+        },
+        "viewProject": "Voir le Projet"
+    },
+    "contact": {
+        "title": "Contact",
+        "subtitle": "Nous avons hâte d'entrer en contact avec vous",
+        "getInTouch": "Entrer en Contact",
+        "form": {
+            "name": "Nom Complet",
+            "email": "Email",
+            "phone": "Téléphone",
+            "subject": "Sujet",
+            "message": "Votre Message",
+            "messagePlaceholder": "Écrivez votre message ici...",
+            "submit": "Envoyer",
+            "sending": "Envoi en cours...",
+            "success": "Votre message a été envoyé avec succès!",
+            "successDesc": "Nous vous contacterons dans les plus brefs délais.",
+            "error": "Une erreur s'est produite. Veuillez réessayer.",
+            "recaptchaRequired": "Veuillez vérifier que vous n'êtes pas un robot",
+            "sendAnother": "Envoyer un Autre Message"
+        },
+        "info": {
+            "title": "Informations de Contact",
+            "address": "Hamidiye Mah. Kemerburgaz Cad. No: 152/6, Kağıthane - Istanbul, Turquie",
+            "phone": "0212 294 82 80",
+            "mobile": "0532 294 34 36",
+            "email": "info@yanginperde.com",
+            "workingHours": "Heures de Travail",
+            "weekdays": "Lundi - Samedi: 09:00 - 18:00",
+            "weekend": "Dimanche: Fermé"
+        }
+    },
+    "legal": {
+        "privacy": {
+            "title": "Politique de Confidentialité",
+            "lastUpdated": "Dernière mise à jour"
+        },
+        "terms": {
+            "title": "Conditions d'Utilisation",
+            "lastUpdated": "Dernière mise à jour"
+        }
+    },
+    "common": {
+        "loading": "Chargement...",
+        "error": "Une erreur s'est produite",
+        "backToHome": "Retour à l'Accueil",
+        "learnMore": "En Savoir Plus",
+        "seeAll": "Voir Tout",
+        "readMore": "Lire Plus"
+    },
+    "outdoor": {
+        "meta": {
+            "title": "Rideaux Coupe-Feu | YANGIN PERDE",
+            "description": "Rideau Coupe-Feu, Rideau de Fumée, Systèmes de Convoyeur. Solutions professionnelles pour la sécurité incendie."
+        },
+        "title": "Systèmes Incendie",
+        "subtitle": "Rideau Coupe-Feu, Rideau de Fumée, Rideaux Automatiques et Systèmes de Convoyeur",
+        "getQuote": "Demander un Devis",
+        "productsTitle": "Solutions Certifiées pour la Sécurité Incendie",
+        "productsSubtitle": "Assurez la sécurité des personnes et des biens avec nos systèmes de rideaux coupe-feu et de fumée conformes aux normes internationales, testés et certifiés.",
+        "viewDetails": "Détails du Produit",
+        "ctaTitle": "Solutions fiables, élégantes et durables.",
+        "ctaSubtitle": "Laissez notre équipe professionnelle déterminer la meilleure solution pour vous.",
+        "ctaButton": "Demander une Consultation Gratuite"
+    },
+    "indoor": {
+        "meta": {
+            "title": "Systèmes de Contrôle de Fumée | YANGIN PERDE",
+            "description": "Rideaux de Fumée Fixes, Rideaux de Fumée Automatiques. Solutions professionnelles pour l'évacuation et le contrôle de la fumée."
+        },
+        "title": "Systèmes de Contrôle de Fumée",
+        "subtitle": "Rideaux de Fumée Fixes, Rideaux de Fumée Automatiques et Systèmes d'Évacuation de Fumée",
+        "getQuote": "Demander un Devis",
+        "productsTitle": "Systèmes Empêchant la Propagation de la Fumée",
+        "productsSubtitle": "Découvrez nos systèmes de contrôle de fumée qui créent des couloirs d'évacuation sûrs en empêchant la propagation de la fumée en cas d'incendie.",
+        "viewDetails": "Détails du Produit",
+        "ctaTitle": "Solutions sûres et fonctionnelles pour vos espaces de vie.",
+        "ctaSubtitle": "Laissez notre équipe d'experts déterminer le système de contrôle de fumée le plus adapté à votre espace.",
+        "ctaButton": "Demander une Consultation Gratuite"
+    }
+}

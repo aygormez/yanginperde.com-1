@@ -1,0 +1,326 @@
+{
+    "metadata": {
+        "title": "YANGIN PERDE | Fire and Smoke Control Systems",
+        "description": "Turkey's trusted brand in fire curtains, smoke curtains, conveyor systems and automatic fire curtains. Modern fire safety solutions.",
+        "keywords": "fire curtain, smoke curtain, automatic curtain, conveyor system, fire safety, fire door"
+    },
+    "nav": {
+        "home": "Home",
+        "products": "Products",
+        "allProducts": "View All Products",
+        "outdoor": "Fire Systems",
+        "indoor": "Smoke Systems",
+        "customSolutions": "Custom Solutions",
+        "about": "About Us",
+        "projects": "Projects",
+        "contact": "Contact",
+        "login": "Login",
+        "getQuote": "Get Quote",
+        "search": "Search"
+    },
+    "hero": {
+        "badge": "Fire Safety Systems",
+        "title": "For Your Safety",
+        "titleHighlight": "Innovative Solutions",
+        "subtitle": "Protect your living spaces and businesses with fire and smoke control systems.",
+        "cta": "Explore Products",
+        "ctaPrimary": "OUR SYSTEMS",
+        "ctaSecondary": "TECHNICAL SPECS",
+        "primaryButton": "View Systems",
+        "secondaryButton": "Contact Support",
+        "stats": {
+            "years": "Years Experience",
+            "projects": "Projects",
+            "dealers": "Dealers",
+            "satisfaction": "Customer Satisfaction"
+        },
+        "showcase": "Fire Curtain Systems",
+        "warranty": "Certified Production",
+        "warrantyDesc": "International Standards",
+        "delivery": "Professional Installation",
+        "deliveryTime": "Fast Installation"
+    },
+    "categories": {
+        "title": "Our Product Categories",
+        "subtitle": "Fire and smoke control solutions for every need",
+        "viewAll": "View All",
+        "viewMore": "Learn More",
+        "outdoor": "Fire Systems",
+        "indoor": "Smoke Systems"
+    },
+    "whyUs": {
+        "description": "We design systems that don't just meet standards, but redefine them. Reliability at 1100°C is not an option; it is our baseline.",
+        "features": {
+            "tech1": {
+                "title": "STRUCTURAL AUTONOMY",
+                "desc": "Autonomous activation fully integrated with fire detection systems, requiring no human intervention."
+            },
+            "tech2": {
+                "title": "ARCHITECTURAL INTEGRATION",
+                "desc": "Maximum safety without compromising building aesthetics with invisible mounting details and minimal housing designs."
+            },
+            "tech3": {
+                "title": "INDUSTRIAL DURABILITY",
+                "desc": "Certified composite materials resistant to harsh industrial conditions, high heat, and pressure."
+            },
+            "tech4": {
+                "title": "CERTIFIED SAFETY",
+                "desc": "Tested according to EN 12101-1 and international standards, E120 and DH60 class approved protection."
+            }
+        }
+    },
+    "featuredProducts": {
+        "title": "Featured Products",
+        "subtitle": "Our most preferred fire safety systems",
+        "viewProduct": "View Product"
+    },
+    "partners": {
+        "badge": "Our Partners",
+        "title": "Working with World Leading Brands",
+        "subtitle": "We are the authorized distributor of Europe's most prestigious fire safety and automation brands",
+        "stats": {
+            "globalBrands": "Global Brands",
+            "yearsPartnership": "Years Partnership",
+            "originalParts": "Original Parts",
+            "exportCountries": "Export Countries"
+        }
+    },
+    "references": {
+        "title": "Our Projects",
+        "subtitle": "Examples from our successfully completed projects",
+        "viewAll": "View All Projects"
+    },
+    "process": {
+        "title": "PROJECT LIFECYCLE",
+        "steps": {
+            "step1": {
+                "title": "TECHNICAL ANALYSIS",
+                "desc": "Comprehensive engineering assessment of architectural requirements, fire scenarios, and risk factors."
+            },
+            "step2": {
+                "title": "SYSTEM DESIGN",
+                "desc": "Projecting the most efficient solution with project-specific sizing, CAD drawings, and optimization."
+            },
+            "step3": {
+                "title": "PRECISION MANUFACTURING",
+                "desc": "Millimetric production process with high technology and certified raw materials at international standards."
+            },
+            "step4": {
+                "title": "INSTALLATION & COMMISSIONING",
+                "desc": "Installation, system integration, and sealing tests performed by expert teams for handover."
+            }
+        }
+    },
+    "seo": {
+        "title": "Turkey's Trusted Fire Safety Brand",
+        "content": "As YANGIN PERDE, we are one of Turkey's leading brands with a wide range from fire curtains to smoke control solutions. European quality standards and thousands of successful projects.",
+        "categories": "Our Product Categories"
+    },
+    "cta": {
+        "title": "Free Consultation for Your Project",
+        "subtitle": "Let our expert team contact you",
+        "button": "Contact Us Now",
+        "secondaryButton": "Explore Products"
+    },
+    "footer": {
+        "description": "Turkey's trusted brand in fire and smoke control systems.",
+        "quickLinks": "Quick Links",
+        "products": "Products",
+        "contact": "Contact",
+        "address": "Address",
+        "phone": "Phone",
+        "email": "Email",
+        "copyright": "© 2024 YANGIN PERDE. All rights reserved.",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Use",
+        "company": "YMA Yapı Sistemleri San. ve Tic. Ltd. Şti."
+    },
+    "products": {
+        "title": "Our Products",
+        "subtitle": "Discover fire safety solutions that suit your needs",
+        "filter": {
+            "all": "All",
+            "zipScreen": "Fire Curtain",
+            "storPerde": "Smoke Curtain",
+            "tente": "Conveyor System",
+            "camBalkon": "Fixed Curtain",
+            "pergola": "Auto Curtain"
+        },
+        "card": {
+            "viewDetails": "View Details",
+            "getQuote": "Get Quote"
+        }
+    },
+    "productDetail": {
+        "specifications": "Technical Specifications",
+        "features": "Features",
+        "usageAreas": "Usage Areas",
+        "advantages": "Advantages",
+        "relatedProducts": "Related Products",
+        "getQuote": "Get Quote",
+        "downloadCatalog": "Download Catalog",
+        "breadcrumb": {
+            "home": "Home",
+            "products": "Products"
+        }
+    },
+    "about": {
+        "title": "About Us",
+        "subtitle": "Fire safety is not just a product; it is the most important investment protecting human life.",
+        "experienceYears": "25+",
+        "experienceLabel": "Years of Industry Experience",
+        "story": {
+            "p1": "YANGIN PERDE combines more than 25 years of sector knowledge and field experience with modern building fire safety needs to develop functional, durable, and high-quality standard solutions.",
+            "p2": "From residential projects to large-scale commercial buildings; from hospitals to industrial facilities, from educational buildings to special architectural applications, we handle every project with the same seriousness and rigor.",
+            "p3": "In every project, we evaluate the fire scenario, purpose of use, architectural compatibility, and international standards (EN, UL, etc.) together; we aim to produce systems that not only comply with procedures but also ensure full life safety.",
+            "p4": "In design, production, and implementation processes, we work with architects, engineers, and fire consultants in a common-sense approach; we develop project-specific, correct, and sustainable systems rather than standard solutions.",
+            "p5": "With our approach that views quality not as a choice but as a necessity; we care about establishing long-term partnerships in product reliability, correct technical details, and after-sales support.",
+            "p6": "Today, we continue our way as a structure offering more refined, more selective, and upper-segment solutions on the solid foundation provided by past experience."
+        },
+        "valuesSection": {
+            "title": "Our Values & Working Principles",
+            "architectural": {
+                "title": "Engineering Approach",
+                "content": "We handle fire safety as an engineering discipline. We detail every solution within the framework of risk analysis and technical requirements."
+            },
+            "projectSpecific": {
+                "title": "Project-Specific Solution",
+                "content": "Instead of standard molds, we manufacture in special sizes and features suitable for the project's hazard class and architecture."
+            },
+            "qualityStandard": {
+                "title": "Certified Safety",
+                "content": "We accept the compliance and certification of our products with international fire resistance standards as a fundamental condition."
+            },
+            "collaboration": {
+                "title": "Expert Collaboration",
+                "content": "We work in close contact with fire consultants and project authors to produce solutions fully compliant with regulations."
+            },
+            "sustainability": {
+                "title": "Sustainability",
+                "content": "We manufacture our systems from sustainable materials that will work smoothly for many years and provide ease of maintenance."
+            },
+            "afterDelivery": {
+                "title": "24/7 Technical Support",
+                "content": "Fire safety does not accept interruptions. We ensure that systems are operational at all times with our after-sales maintenance and service."
+            }
+        }
+    },
+    "customSolutions": {
+        "meta": {
+            "title": "Custom Solutions | YANGIN PERDE",
+            "description": "Project-specific fire and smoke control solutions: Fire consulting, custom production and technical support."
+        },
+        "title": "Custom Solutions",
+        "subtitle": "We develop project-specific solutions for complex architectural structures and special fire scenarios.",
+        "intro": "Every building's fire risk analysis is different. As YANGIN PERDE, we offer special solutions suitable for your architectural project and fire scenario.",
+        "services": {
+            "consulting": {
+                "title": "Project Consulting",
+                "description": "We provide consulting on product selection, technical details and implementation strategy according to your project scale and needs."
+            },
+            "customProduction": {
+                "title": "Custom Production",
+                "description": "We manufacture to your project-specific dimensions, colours and materials beyond standard sizes."
+            },
+            "getQuote": {
+                "title": "Get a Quote",
+                "description": "Share your requirements; we will prepare a tailored solution proposal and detailed price quote."
+            }
+        },
+        "ctaContact": "Get in touch",
+        "ctaTitle": "Let's take the next step for your project",
+        "ctaSubtitle": "Let's evaluate your custom solution needs together. Our expert team will get in touch with you."
+    },
+    "projects": {
+        "title": "References",
+        "subtitle": "Examples from our successfully completed projects",
+        "filter": {
+            "all": "All",
+            "residential": "Residential",
+            "commercial": "Commercial",
+            "hotel": "Hotel & Mall",
+            "villa": "Industrial"
+        },
+        "viewProject": "View Project"
+    },
+    "contact": {
+        "title": "Contact",
+        "subtitle": "We look forward to getting in touch with you",
+        "getInTouch": "Get in Touch",
+        "form": {
+            "name": "Full Name",
+            "email": "Email",
+            "phone": "Phone",
+            "subject": "Subject",
+            "message": "Your Message",
+            "messagePlaceholder": "Write your message here...",
+            "submit": "Submit",
+            "sending": "Sending...",
+            "success": "Your message has been sent successfully!",
+            "successDesc": "We will contact you as soon as possible.",
+            "error": "An error occurred. Please try again.",
+            "recaptchaRequired": "Please verify you are not a robot",
+            "sendAnother": "Send Another Message"
+        },
+        "info": {
+            "title": "Contact Information",
+            "address": "Hamidiye Mah. Kemerburgaz Cad. No: 152/6, Kağıthane - Istanbul, Turkey",
+            "phone": "0212 294 82 80",
+            "fax": "+90 (212) 123 45 67",
+            "getQuote": "Get Quote",
+            "mobile": "0532 294 34 36",
+            "email": "info@yanginperde.com",
+            "workingHours": "Working Hours",
+            "weekdays": "Monday - Saturday: 09:00 - 18:00",
+            "weekend": "Sunday: Closed"
+        }
+    },
+    "legal": {
+        "privacy": {
+            "title": "Privacy Policy",
+            "lastUpdated": "Last updated"
+        },
+        "terms": {
+            "title": "Terms of Use",
+            "lastUpdated": "Last updated"
+        }
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "An error occurred",
+        "backToHome": "Back to Home",
+        "learnMore": "Learn More",
+        "seeAll": "See All",
+        "readMore": "Read More"
+    },
+    "outdoor": {
+        "meta": {
+            "title": "Fire Curtains | YANGIN PERDE",
+            "description": "Fire Curtain, Smoke Curtain, Conveyor Systems. Professional solutions for fire safety."
+        },
+        "title": "Fire Systems",
+        "subtitle": "Fire Curtain, Smoke Curtain, Automatic Curtains and Conveyor Systems",
+        "getQuote": "Get Quote",
+        "productsTitle": "Certified Solutions for Fire Safety",
+        "productsSubtitle": "Ensure safety of life and property with our international standard compliant, tested and certified fire and smoke curtain systems.",
+        "viewDetails": "Product Details",
+        "ctaTitle": "Reliable, elegant and durable solutions.",
+        "ctaSubtitle": "Let our professional team determine the best solution for you.",
+        "ctaButton": "Request Free Consultation"
+    },
+    "indoor": {
+        "meta": {
+            "title": "Smoke Control Systems | YANGIN PERDE",
+            "description": "Static Smoke Curtains, Automatic Smoke Curtains. Professional solutions for smoke evacuation and control."
+        },
+        "title": "Smoke Control Systems",
+        "subtitle": "Static Smoke Curtains, Automatic Smoke Curtains and Smoke Evacuation Systems",
+        "getQuote": "Get Quote",
+        "productsTitle": "Systems Preventing Smoke Spread",
+        "productsSubtitle": "Discover our smoke control systems that create safe escape corridors by preventing smoke spread during fire.",
+        "viewDetails": "Product Details",
+        "ctaTitle": "Safe and functional solutions for your living spaces.",
+        "ctaSubtitle": "Let our expert team determine the most suitable smoke control system for your space.",
+        "ctaButton": "Request Free Consultation"
+    }
+}

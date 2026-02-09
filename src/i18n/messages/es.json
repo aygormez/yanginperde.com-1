@@ -1,0 +1,323 @@
+{
+    "metadata": {
+        "title": "YANGIN PERDE | Sistemas de Control de Incendios y Humo",
+        "description": "La marca de confianza de Turquía en cortinas cortafuegos, cortinas de humo, sistemas de transporte y cortinas cortafuegos automáticas. Soluciones modernas de seguridad contra incendios.",
+        "keywords": "cortina cortafuegos, cortina de humo, cortina automática, sistema de transporte, seguridad contra incendios, puerta cortafuegos"
+    },
+    "nav": {
+        "home": "Inicio",
+        "products": "Productos",
+        "allProducts": "Ver Todos los Productos",
+        "outdoor": "Sistemas de Incendio",
+        "indoor": "Sistemas de Humo",
+        "customSolutions": "Soluciones Personalizadas",
+        "about": "Sobre Nosotros",
+        "projects": "Proyectos",
+        "contact": "Contacto",
+        "login": "Iniciar Sesión",
+        "getQuote": "Solicitar Presupuesto",
+        "search": "Buscar"
+    },
+    "hero": {
+        "badge": "Sistemas de Seguridad Contra Incendios",
+        "title": "Para Su Seguridad",
+        "titleHighlight": "Soluciones Innovadoras",
+        "subtitle": "Proteja sus espacios de vida y negocios con sistemas de control de incendios y humo.",
+        "cta": "Explorar Productos",
+        "ctaSecondary": "Solicitar Presupuesto",
+        "stats": {
+            "years": "Años de Experiencia",
+            "projects": "Proyectos",
+            "dealers": "Distribuidores",
+            "satisfaction": "Satisfacción del Cliente"
+        },
+        "showcase": "Sistemas de Cortinas Cortafuegos",
+        "warranty": "Producción Certificada",
+        "warrantyDesc": "Estándares Internacionales",
+        "delivery": "Instalación Profesional",
+        "deliveryTime": "Instalación Rápida"
+    },
+    "categories": {
+        "title": "Nuestras Categorías de Productos",
+        "subtitle": "Soluciones de control de incendios y humo para cada necesidad",
+        "viewAll": "Ver Todo",
+        "viewMore": "Saber Más",
+        "outdoor": "Sistemas de Incendio",
+        "indoor": "Sistemas de Humo"
+    },
+    "whyGespera": {
+        "title": "¿Por qué YANGIN PERDE?",
+        "subtitle": "Buscamos la excelencia para su seguridad",
+        "quality": {
+            "title": "Alta Calidad",
+            "description": "Calidad de producción según estándares europeos y materiales certificados"
+        },
+        "experience": {
+            "title": "25+ Años de Experiencia",
+            "description": "Soluciones confiables con nuestra experiencia establecida en el sector"
+        },
+        "warranty": {
+            "title": "Garantía",
+            "description": "Garantía extendida y soporte postventa en todos nuestros productos"
+        },
+        "installation": {
+            "title": "Instalación Profesional",
+            "description": "Servicio de instalación rápido e impecable con nuestros equipos expertos"
+        },
+        "customization": {
+            "title": "Diseño Personalizado",
+            "description": "Personalización con dimensiones y características específicas del proyecto"
+        }
+    },
+    "featuredProducts": {
+        "title": "Productos Destacados",
+        "subtitle": "Nuestros sistemas de seguridad contra incendios más preferidos",
+        "viewProduct": "Ver Producto"
+    },
+    "partners": {
+        "badge": "Nuestros Socios",
+        "title": "Trabajando con Marcas Líderes Mundiales",
+        "subtitle": "Somos el socio de las marcas de seguridad contra incendios y automatización más prestigiosas del mundo",
+        "stats": {
+            "globalBrands": "Marcas Globales",
+            "yearsPartnership": "Años de Asociación",
+            "originalParts": "Piezas Originales",
+            "exportCountries": "Países de Exportación"
+        }
+    },
+    "references": {
+        "title": "Nuestros Proyectos",
+        "subtitle": "Ejemplos de nuestros proyectos completados con éxito",
+        "viewAll": "Ver Todos los Proyectos"
+    },
+    "process": {
+        "title": "Cómo Trabajamos",
+        "subtitle": "Gestión de procesos simple y transparente",
+        "step1": {
+            "title": "Descubrimiento y Análisis",
+            "description": "Analizamos los requisitos de su proyecto y el riesgo de incendio en detalle"
+        },
+        "step2": {
+            "title": "Diseño y Presupuesto",
+            "description": "Proporcionamos soluciones personalizadas y precios detallados"
+        },
+        "step3": {
+            "title": "Producción",
+            "description": "Fabricamos según estándares internacionales certificados"
+        },
+        "step4": {
+            "title": "Instalación y Entrega",
+            "description": "Completamos la instalación y las pruebas con nuestro equipo profesional"
+        }
+    },
+    "seo": {
+        "title": "La Marca de Seguridad Contra Incendios de Confianza de Turquía",
+        "content": "Como YANGIN PERDE, somos una de las marcas líderes de Turquía con una amplia gama desde cortinas cortafuegos hasta soluciones de control de humo. Estándares de calidad europeos y miles de proyectos exitosos.",
+        "categories": "Nuestras Categorías de Productos"
+    },
+    "cta": {
+        "title": "Consulta Gratuita para Su Proyecto",
+        "subtitle": "Deje que nuestro equipo de expertos se ponga en contacto con usted",
+        "button": "Contáctenos Ahora",
+        "secondaryButton": "Explorar Productos"
+    },
+    "footer": {
+        "description": "La marca de confianza de Turquía en sistemas de control de incendios y humo.",
+        "quickLinks": "Enlaces Rápidos",
+        "products": "Productos",
+        "contact": "Contacto",
+        "address": "Dirección",
+        "phone": "Teléfono",
+        "email": "Correo Electrónico",
+        "copyright": "© 2024 YANGIN PERDE. Todos los derechos reservados.",
+        "privacy": "Política de Privacidad",
+        "terms": "Términos de Uso",
+        "company": "YMA Yapı Sistemleri San. ve Tic. Ltd. Şti."
+    },
+    "products": {
+        "title": "Nuestros Productos",
+        "subtitle": "Descubra soluciones de seguridad contra incendios que se adapten a sus necesidades",
+        "filter": {
+            "all": "Todos",
+            "zipScreen": "Cortina Cortafuegos",
+            "storPerde": "Cortina de Humo",
+            "tente": "Sistema de Transporte",
+            "camBalkon": "Cortina Fija",
+            "pergola": "Cortina Auto"
+        },
+        "card": {
+            "viewDetails": "Ver Detalles",
+            "getQuote": "Solicitar Presupuesto"
+        }
+    },
+    "productDetail": {
+        "specifications": "Especificaciones Técnicas",
+        "features": "Características",
+        "usageAreas": "Áreas de Uso",
+        "advantages": "Ventajas",
+        "relatedProducts": "Productos Relacionados",
+        "getQuote": "Solicitar Presupuesto",
+        "downloadCatalog": "Descargar Catálogo",
+        "breadcrumb": {
+            "home": "Inicio",
+            "products": "Productos"
+        }
+    },
+    "about": {
+        "title": "Sobre Nosotros",
+        "subtitle": "La seguridad contra incendios no es solo un producto; es la inversión más importante que protege la vida humana.",
+        "experienceYears": "25+",
+        "experienceLabel": "Años de experiencia en el sector",
+        "story": {
+            "p1": "YANGIN PERDE combina más de 25 años de conocimiento sectorial y experiencia de campo con las necesidades modernas de seguridad contra incendios de los edificios para desarrollar soluciones funcionales, duraderas y de altos estándares de calidad.",
+            "p2": "Desde proyectos residenciales hasta edificios comerciales a gran escala; desde hospitales hasta instalaciones industriales, desde edificios educativos hasta aplicaciones arquitectónicas especiales, abordamos cada proyecto con la misma seriedad y rigor.",
+            "p3": "En cada proyecto, evaluamos el escenario de incendio, el propósito de uso, la compatibilidad arquitectónica y los estándares internacionales (EN, UL, etc.) juntos; nuestro objetivo es producir sistemas que no solo cumplan con los procedimientos sino que también garanticen una seguridad vital total.",
+            "p4": "En los procesos de diseño, producción e implementación, trabajamos con arquitectos, ingenieros y consultores de incendios con un enfoque de sentido común; desarrollamos sistemas específicos por proyecto, correctos y sostenibles en lugar de soluciones estándar.",
+            "p5": "Con nuestro enfoque que considera la calidad no como una opción sino como una necesidad; nos preocupamos por establecer asociaciones a largo plazo en confiabilidad del producto, detalles técnicos correctos y soporte postventa.",
+            "p6": "Hoy continuamos nuestro camino como una estructura que ofrece soluciones más refinadas, más selectivas y de segmento superior sobre la base sólida que proporciona la experiencia pasada."
+        },
+        "valuesSection": {
+            "title": "Nuestros Valores y Principios de Trabajo",
+            "architectural": {
+                "title": "Enfoque de Ingeniería",
+                "content": "Tratamos la seguridad contra incendios como una disciplina de ingeniería. Detallamos cada solución dentro del marco del análisis de riesgos y los requisitos técnicos."
+            },
+            "projectSpecific": {
+                "title": "Solución Específica por Proyecto",
+                "content": "En lugar de moldes estándar, fabricamos en tamaños y características especiales adecuados para la clase de peligro y la arquitectura del proyecto."
+            },
+            "qualityStandard": {
+                "title": "Seguridad Certificada",
+                "content": "Aceptamos el cumplimiento y la certificación de nuestros productos con los estándares internacionales de resistencia al fuego como una condición fundamental."
+            },
+            "collaboration": {
+                "title": "Colaboración de Expertos",
+                "content": "Trabajamos en estrecho contacto con consultores de incendios y autores de proyectos para producir soluciones totalmente conformes con las regulaciones."
+            },
+            "sustainability": {
+                "title": "Sostenibilidad",
+                "content": "Fabricamos nuestros sistemas con materiales sostenibles que funcionarán sin problemas durante muchos años y proporcionarán facilidad de mantenimiento."
+            },
+            "afterDelivery": {
+                "title": "Soporte Técnico 24/7",
+                "content": "La seguridad contra incendios no acepta interrupciones. Aseguramos que los sistemas estén operativos en todo momento con nuestro mantenimiento y servicio postventa."
+            }
+        }
+    },
+    "customSolutions": {
+        "meta": {
+            "title": "Soluciones Personalizadas | YANGIN PERDE",
+            "description": "Soluciones de control de incendios y humo específicas por proyecto: Consultoría de incendios, producción personalizada y soporte técnico."
+        },
+        "title": "Soluciones Personalizadas",
+        "subtitle": "Desarrollamos soluciones específicas por proyecto para estructuras arquitectónicas complejas y escenarios de incendio especiales.",
+        "intro": "El análisis de riesgo de incendio de cada edificio es diferente. Como YANGIN PERDE, ofrecemos soluciones especiales adecuadas para su proyecto arquitectónico y escenario de incendio.",
+        "services": {
+            "consulting": {
+                "title": "Consultoría de Proyecto",
+                "description": "Brindamos consultoría sobre selección de productos, detalles técnicos y estrategia de implementación según la escala y necesidades de su proyecto."
+            },
+            "customProduction": {
+                "title": "Producción Personalizada",
+                "description": "Fabricamos según sus dimensiones, colores y materiales específicos del proyecto más allá de los tamaños estándar."
+            },
+            "getQuote": {
+                "title": "Solicitar Presupuesto",
+                "description": "Comparta sus requisitos; prepararemos una propuesta de solución a medida y un presupuesto detallado."
+            }
+        },
+        "ctaContact": "Ponerse en contacto",
+        "ctaTitle": "Demos el siguiente paso para su proyecto",
+        "ctaSubtitle": "Evaluemos juntos sus necesidades de soluciones personalizadas. Nuestro equipo de expertos se pondrá en contacto con usted."
+    },
+    "projects": {
+        "title": "Referencias",
+        "subtitle": "Ejemplos de nuestros proyectos completados con éxito",
+        "filter": {
+            "all": "Todos",
+            "residential": "Residencial",
+            "commercial": "Comercial",
+            "hotel": "Hotel y Centro Comercial",
+            "villa": "Industrial"
+        },
+        "viewProject": "Ver Proyecto"
+    },
+    "contact": {
+        "title": "Contacto",
+        "subtitle": "Esperamos ponernos en contacto con usted",
+        "getInTouch": "Ponerse en Contacto",
+        "form": {
+            "name": "Nombre Completo",
+            "email": "Correo Electrónico",
+            "phone": "Teléfono",
+            "subject": "Asunto",
+            "message": "Su Mensaje",
+            "messagePlaceholder": "Escriba su mensaje aquí...",
+            "submit": "Enviar",
+            "sending": "Enviando...",
+            "success": "¡Su mensaje ha sido enviado con éxito!",
+            "successDesc": "Nos pondremos en contacto con usted lo antes posible.",
+            "error": "Ocurrió un error. Por favor, inténtelo de nuevo.",
+            "recaptchaRequired": "Por favor, verifique que no es un robot",
+            "sendAnother": "Enviar Otro Mensaje"
+        },
+        "info": {
+            "title": "Información de Contacto",
+            "address": "Hamidiye Mah. Kemerburgaz Cad. No: 152/6, Kağıthane - Estambul, Turquía",
+            "phone": "0212 294 82 80",
+            "mobile": "0532 294 34 36",
+            "email": "info@yanginperde.com",
+            "workingHours": "Horario de Trabajo",
+            "weekdays": "Lunes - Sábado: 09:00 - 18:00",
+            "weekend": "Domingo: Cerrado"
+        }
+    },
+    "legal": {
+        "privacy": {
+            "title": "Política de Privacidad",
+            "lastUpdated": "Última actualización"
+        },
+        "terms": {
+            "title": "Términos de Uso",
+            "lastUpdated": "Última actualización"
+        }
+    },
+    "common": {
+        "loading": "Cargando...",
+        "error": "Ocurrió un error",
+        "backToHome": "Volver al Inicio",
+        "learnMore": "Saber Más",
+        "seeAll": "Ver Todo",
+        "readMore": "Leer Más"
+    },
+    "outdoor": {
+        "meta": {
+            "title": "Cortinas Cortafuegos | YANGIN PERDE",
+            "description": "Cortina Cortafuegos, Cortina de Humo, Sistemas de Transporte. Soluciones profesionales para seguridad contra incendios."
+        },
+        "title": "Sistemas de Incendio",
+        "subtitle": "Cortina Cortafuegos, Cortina de Humo, Cortinas Automáticas y Sistemas de Transporte",
+        "getQuote": "Solicitar Presupuesto",
+        "productsTitle": "Soluciones Certificadas para Seguridad Contra Incendios",
+        "productsSubtitle": "Garantice la seguridad de la vida y la propiedad con nuestros sistemas de cortinas cortafuegos y de humo conformes a las normas internacionales, probados y certificados.",
+        "viewDetails": "Detalles del Producto",
+        "ctaTitle": "Soluciones confiables, elegantes y duraderas.",
+        "ctaSubtitle": "Deje que nuestro equipo profesional determine la mejor solución para usted.",
+        "ctaButton": "Solicitar Consulta Gratuita"
+    },
+    "indoor": {
+        "meta": {
+            "title": "Sistemas de Control de Humo | YANGIN PERDE",
+            "description": "Cortinas de Humo Fijas, Cortinas de Humo Automáticas. Soluciones profesionales para evacuación y control de humo."
+        },
+        "title": "Sistemas de Control de Humo",
+        "subtitle": "Cortinas de Humo Fijas, Cortinas de Humo Automáticas y Sistemas de Evacuación de Humo",
+        "getQuote": "Solicitar Presupuesto",
+        "productsTitle": "Sistemas que Previenen la Propagación del Humo",
+        "productsSubtitle": "Descubra nuestros sistemas de control de humo que crean pasillos de escape seguros evitando la propagación del humo durante un incendio.",
+        "viewDetails": "Detalles del Producto",
+        "ctaTitle": "Soluciones seguras y funcionales para sus espacios de vida.",
+        "ctaSubtitle": "Deje que nuestro equipo de expertos determine el sistema de control de humo más adecuado para su espacio.",
+        "ctaButton": "Solicitar Consulta Gratuita"
+    }
+}

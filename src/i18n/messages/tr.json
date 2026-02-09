@@ -1,0 +1,469 @@
+{
+    "metadata": {
+        "title": "YANGIN PERDE | Yangın ve Duman Kontrol Sistemleri",
+        "description": "Türkiye'nin güvenilir markası; yangın perdesi, duman perdesi, konveyör sistem ve otomatik yangın perdeleri. Modern yangın güvenliği çözümleri.",
+        "keywords": "yangın perdesi, duman perdesi, otomatik perde, konveyör sistem, yangın güvenliği, yangın kapısı"
+    },
+    "nav": {
+        "home": "Ana Sayfa",
+        "products": "Ürünler",
+        "allProducts": "Tüm Ürünleri Gör",
+        "outdoor": "Yangın Sistemleri",
+        "indoor": "Duman Sistemleri",
+        "customSolutions": "Özel Çözümler",
+        "about": "Hakkımızda",
+        "projects": "Projeler",
+        "contact": "İletişim",
+        "login": "Giriş",
+        "getQuote": "Teklif Alın",
+        "search": "Ara"
+    },
+    "hero": {
+        "badge": "Yangın Güvenlik Sistemleri",
+        "title": "Güvenliğiniz İçin",
+        "titleHighlight": "Yenilikçi Çözümler",
+        "subtitle": "Yangın ve duman kontrol sistemleriyle yaşam alanlarınızı ve işletmelerinizi koruma altına alın.",
+        "cta": "Ürünleri İncele",
+        "ctaPrimary": "SİSTEMLERİMİZİ İNCELEYİN",
+        "ctaSecondary": "TEKNİK DETAYLAR",
+        "primaryButton": "Sistemleri İncele",
+        "secondaryButton": "Teknik Destek Al",
+        "stats": {
+            "years": "Yıl Tecrübe",
+            "projects": "Proje",
+            "dealers": "Bayi",
+            "satisfaction": "Müşteri Memnuniyeti"
+        },
+        "showcase": "Yangın Perde Sistemleri",
+        "warranty": "Sertifikalı Üretim",
+        "warrantyDesc": "Uluslararası Standartlar",
+        "delivery": "Profesyonel Montaj",
+        "deliveryTime": "Hızlı Kurulum",
+        "advancedEngineering": "İleri Yangın Mühendisliği",
+        "systemStatus": "Sistem Durumu",
+        "online": "AKTİF",
+        "fireIntegrity": "Yangın Bütünlüğü (E)",
+        "radiationControl": "Radyasyon Kontrolü (W)",
+        "standard": "Standart",
+        "certifiedBy": "Sertifikasyon"
+    },
+    "categories": {
+        "title": "Ürün Kategorilerimiz",
+        "subtitle": "Her ihtiyaca uygun yangın ve duman kontrol çözümleri",
+        "viewAll": "Tümünü Gör",
+        "viewMore": "İncele",
+        "outdoor": "Yangın Sistemleri",
+        "indoor": "Duman Sistemleri",
+        "systemCatalog": "Sistem Kataloğu",
+        "engineered": "Mühendislik",
+        "solutions": "Çözümleri",
+        "viewDetails": "Detayları İncele"
+    },
+    "specs": {
+        "technicalCompliance": "Teknik Uyumluluk",
+        "certified": "Sertifikalı",
+        "performance": "Performans",
+        "downloadDatasheets": "Teknik Dokümanları İndir",
+        "items": {
+            "fireIntegrity": {
+                "label": "Yangın Bütünlüğü (E)",
+                "value": "120 dakikaya kadar",
+                "standard": "EN 13501-2"
+            },
+            "radiation": {
+                "label": "Radyasyon (W)",
+                "value": "60 dakikaya kadar",
+                "standard": "EN 13501-2"
+            },
+            "insulation": {
+                "label": "İzolasyon (I)",
+                "value": "120 dakikaya kadar",
+                "standard": "EN 13501-2"
+            },
+            "smokeLeakage": {
+                "label": "Duman Sızdırmazlığı",
+                "value": "Sa / S200 Uyumlu",
+                "standard": "EN 1634-3"
+            },
+            "reactionToFire": {
+                "label": "Yangına Tepki",
+                "value": "Sınıf A1 / A2-s1,d0",
+                "standard": "EN 13501-1"
+            },
+            "closingSpeed": {
+                "label": "Kapanma Hızı",
+                "value": "0.06 - 0.15 m/s",
+                "standard": "Kontrollü"
+            }
+        }
+    },
+    "howItWorks": {
+        "systemLogic": "Sistem Mantığı",
+        "gravityFailSafe": "Yerçekimi",
+        "mechanism": "Mekanizması",
+        "step": "Adım",
+        "statusLabel": "Durum",
+        "headbox": "ŞAFT",
+        "stages": {
+            "0": {
+                "title": "Normal Durum",
+                "description": "Sistem şaft içinde gizli, yapıya tam entegre.",
+                "status": "BEKLEMEDE"
+            },
+            "1": {
+                "title": "Alarm Tetikleme",
+                "description": "Yangın alarm sinyali ile yerçekimi kontrollü düşüş başlar.",
+                "status": "ALARM"
+            },
+            "2": {
+                "title": "Güvenli İniş",
+                "description": "Perde yerçekimi gücüyle güvenli ve kontrollü bir hızda iner.",
+                "status": "AKTİF"
+            },
+            "3": {
+                "title": "Yangın Yalıtımı",
+                "description": "Alan mühürlenir. 120 dakika boyunca kompartımantasyon sağlanır.",
+                "status": "MÜHÜRLÜ"
+            }
+        }
+    },
+    "whyUs": {
+        "description": "Sadece standartları karşılamakla kalmayıp, onları yeniden tanımlayan sistemler tasarlıyoruz. 1100°C'de güvenilirlik bir seçenek değil, bizim temel standartımızdır.",
+        "features": {
+            "tech1": {
+                "title": "YAPISAL OTONOMİ",
+                "desc": "Yangın algılama sistemleri ile tam entegre çalışan, insan müdahalesi gerektirmeyen otonom aktivasyon."
+            },
+            "tech2": {
+                "title": "MİMARİ ENTEGRASYON",
+                "desc": "Görünmez montaj detayları ve minimal kasa tasarımları ile yapının estetiğini bozmadan maksimum güvenlik."
+            },
+            "tech3": {
+                "title": "ENDÜSTRİYEL DAYANIM",
+                "desc": "Zorlu endüstriyel koşullara, yüksek ısıya ve basınca dayanıklı sertifikalı kompozit malzemeler."
+            },
+            "tech4": {
+                "title": "SERTİFİKALI GÜVENLİK",
+                "desc": "EN 12101-1 ve uluslararası standartlara göre test edilmiş, E120 ve DH60 sınıfı onaylı koruma."
+            }
+        },
+        "manufacturingExcellence": "Üretim Mükemmelliği",
+        "precision": "Hassas",
+        "engineering": "Mühendislik.",
+        "cyclesTested": "Test Döngüsü",
+        "factoryCompliance": "Fabrika Uyumluluğu"
+    },
+    "featuredProducts": {
+        "title": "Öne Çıkan Ürünler",
+        "subtitle": "En çok tercih edilen yangın güvenlik sistemlerimiz",
+        "viewProduct": "Ürünü İncele"
+    },
+    "partners": {
+        "badge": "Çözüm Ortaklarımız",
+        "title": "Dünya Devleri ile Çalışıyoruz",
+        "subtitle": "Yangın güvenliği ve otomasyon alanında dünyanın en prestijli markalarının partneriyiz",
+        "stats": {
+            "globalBrands": "Global Marka",
+            "yearsPartnership": "Yıl Ortaklık",
+            "originalParts": "Orijinal Parça",
+            "exportCountries": "İhracat Ülkesi"
+        }
+    },
+    "references": {
+        "title": "Projelerimiz",
+        "subtitle": "Başarıyla tamamlanan projelerimizden örnekler",
+        "viewAll": "Tüm Projeleri Gör",
+        "globalApplications": "Global Uygulamalar",
+        "selected": "Seçilmiş",
+        "projects": "Projeler",
+        "viewAllProjects": "Tüm Projeleri Gör",
+        "items": [
+            {
+                "category": "Ulaşım",
+                "stats": [
+                    {
+                        "label": "Sistem",
+                        "value": "350+"
+                    },
+                    {
+                        "label": "Sınıf",
+                        "value": "E120"
+                    }
+                ]
+            },
+            {
+                "category": "Ticari",
+                "stats": [
+                    {
+                        "label": "Sistem",
+                        "value": "120+"
+                    },
+                    {
+                        "label": "Sınıf",
+                        "value": "EW60"
+                    }
+                ]
+            },
+            {
+                "category": "Sağlık",
+                "stats": [
+                    {
+                        "label": "Sistem",
+                        "value": "85"
+                    },
+                    {
+                        "label": "Sınıf",
+                        "value": "E120"
+                    }
+                ]
+            },
+            {
+                "category": "Ofis",
+                "stats": [
+                    {
+                        "label": "Sistem",
+                        "value": "200+"
+                    },
+                    {
+                        "label": "Sınıf",
+                        "value": "EW60"
+                    }
+                ]
+            }
+        ]
+    },
+    "process": {
+        "title": "PROJE YAŞAM DÖNGÜSÜ",
+        "steps": {
+            "step1": {
+                "title": "TEKNİK ANALİZ",
+                "desc": "Mimari gereksinimlerin, yangın senaryosunun ve risk faktörlerinin kapsamlı mühendislik değerlendirmesi."
+            },
+            "step2": {
+                "title": "SİSTEM TASARIMI",
+                "desc": "Projeye özel ölçülendirme, CAD çizimleri ve optimizasyon ile en verimli çözümün projelendirilmesi."
+            },
+            "step3": {
+                "title": "HASSAS ÜRETİM",
+                "desc": "Uluslararası standartlarda, sertifikalı hammadde ve yüksek teknoloji ile milimetrik üretim süreci."
+            },
+            "step4": {
+                "title": "KURULUM & DEVREYE ALMA",
+                "desc": "Uzman ekiplerce montaj, sistem entegrasyonu ve sızdırmazlık testlerinin yapılarak teslim edilmesi."
+            }
+        }
+    },
+    "seo": {
+        "title": "Türkiye'nin Güvenilir Yangın Perde Markası",
+        "content": "YANGIN PERDE olarak, yangın perdelerinden duman kontrol sistemlerine kadar geniş bir yelpazede Türkiye'nin lider markalarından biriyiz. Avrupa kalite standartları ve binlerce başarılı proje.",
+        "categories": "Ürün Kategorilerimiz"
+    },
+    "cta": {
+        "title": "Projeniz İçin Ücretsiz Danışmanlık",
+        "subtitle": "Uzman ekibimiz sizinle iletişime geçsin",
+        "acceptingProjects": "YENİ PROJELER KABUL EDİLİYOR",
+        "button": "Hemen İletişime Geçin",
+        "secondaryButton": "Ürünleri İncele"
+    },
+    "footer": {
+        "description": "Yangın ve duman kontrol sistemlerinde Türkiye'nin güvenilir markası.",
+        "quickLinks": "Hızlı Bağlantılar",
+        "products": "Ürünler",
+        "contact": "İletişim",
+        "address": "Adres",
+        "phone": "Telefon",
+        "email": "E-posta",
+        "copyright": "© 2024 YANGIN PERDE. Tüm hakları saklıdır.",
+        "privacy": "Gizlilik Politikası",
+        "terms": "Kullanım Koşulları",
+        "company": "YMA Yapı Sistemleri San. ve Tic. Ltd. Şti."
+    },
+    "products": {
+        "title": "Ürünlerimiz",
+        "subtitle": "İhtiyacınıza uygun yangın güvenlik çözümlerini keşfedin",
+        "filter": {
+            "all": "Tümü",
+            "zipScreen": "Yangın Perdesi",
+            "storPerde": "Duman Perdesi",
+            "tente": "Konveyör Sistem",
+            "camBalkon": "Sabit Perde",
+            "pergola": "Otomatik Perde"
+        },
+        "card": {
+            "viewDetails": "Detayları İncele",
+            "getQuote": "Teklif Al"
+        }
+    },
+    "productDetail": {
+        "specifications": "Teknik Özellikler",
+        "features": "Özellikler",
+        "usageAreas": "Kullanım Alanları",
+        "advantages": "Avantajlar",
+        "relatedProducts": "Benzer Ürünler",
+        "getQuote": "Teklif İste",
+        "downloadCatalog": "Katalog İndir",
+        "breadcrumb": {
+            "home": "Ana Sayfa",
+            "products": "Ürünler"
+        }
+    },
+    "about": {
+        "title": "Hakkımızda",
+        "subtitle": "Yangın güvenliği sadece bir ürün değil; insan hayatını koruyan en önemli yatırımdır.",
+        "experienceYears": "25+",
+        "experienceLabel": "Yıl Sektör Tecrübesi",
+        "story": {
+            "p1": "YANGIN PERDE, 25 yılı aşkın sektör bilgisi ve saha tecrübesiyle, modern binaların yangın güvenliği ihtiyaçlarına yönelik fonksiyonel, dayanıklı ve yüksek kalite standartlarında çözümler geliştirmektedir.",
+            "p2": "Konut projelerinden büyük ölçekli ticari yapılara; hastanelerden endüstriyel tesislere, eğitim binalarından özel mimari uygulamalara kadar her projeyi aynı ciddiyet ve titizlikle ele alıyoruz.",
+            "p3": "Her projede yangın senaryosu, kullanım amacı, mimari uyum ve uluslararası standartları (EN, UL vb.) birlikte değerlendiriyor; sadece prosedürlere uygun değil, hayati güvenliği tam sağlayan sistemler üretiyoruz.",
+            "p4": "Tasarım, üretim ve uygulama süreçlerinde mimarlar, mühendisler ve yangın danışmanları ile ortak akıl çerçevesinde çalışıyor; standart çözümler yerine projeye özel, doğru ve sürdürülebilir sistemler geliştiriyoruz.",
+            "p5": "Kaliteyi bir tercih değil, zorunluluk olarak gören anlayışımızla; ürün güvenilirliği, doğru teknik detay ve satış sonrası destek konularında uzun soluklu iş birlikleri kurmayı önemsiyoruz.",
+            "p6": "Geçmişin tecrübesinin sağladığı sağlam zemin üzerinde, daha rafine, daha seçici ve üst segment çözümler sunan bir yapı olarak yolumuza devam ediyoruz."
+        },
+        "valuesSection": {
+            "title": "Değerlerimiz & Çalışma Prensiplerimiz",
+            "architectural": {
+                "title": "Mühendislik Yaklaşımı",
+                "content": "Yangın güvenliğini bir mühendislik disiplini olarak ele alıyoruz. Her çözümü, risk analizi ve teknik gereklilikler çerçevesinde detaylandırıyoruz."
+            },
+            "projectSpecific": {
+                "title": "Projeye Özel Çözüm",
+                "content": "Standart kalıplar yerine, projenin  tehlike sınıfına ve mimarisine uygun, özel boyut ve özelliklerde üretim yapıyoruz."
+            },
+            "qualityStandard": {
+                "title": "Sertifikalı Güvenlik",
+                "content": "Ürünlerimizin uluslararası yangın dayanım standartlarına uygunluğunu ve sertifikasyonunu temel şart olarak kabul ediyoruz."
+            },
+            "collaboration": {
+                "title": "Uzman İş Birliği",
+                "content": "Yangın danışmanları ve proje müellifleri ile dirsek temasında çalışarak, yönetmeliklere tam uyumlu çözümler üretiyoruz."
+            },
+            "sustainability": {
+                "title": "Sürdürülebilirlik",
+                "content": "Sistemlerimizi uzun yıllar sorunsuz çalışacak, bakım kolaylığı sağlayan ve sürdürülebilir malzemelerden üretiyoruz."
+            },
+            "afterDelivery": {
+                "title": "7/24 Teknik Destek",
+                "content": "Yangın güvenliği kesinti kabul etmez. Satış sonrası bakım ve servis hizmetlerimizle sistemlerin her an çalışır durumda olmasını sağlıyoruz."
+            }
+        }
+    },
+    "customSolutions": {
+        "meta": {
+            "title": "Özel Çözümler | YANGIN PERDE",
+            "description": "Projeye özel yangın ve duman kontrol çözümleri: Yangın danışmanlığı, özel üretim ve teknik destek."
+        },
+        "title": "Özel Çözümler",
+        "subtitle": "Karmaşık mimari yapılar ve özel yangın senaryoları için projeye özel çözümler geliştiriyoruz.",
+        "intro": "Her binanın yangın risk analizi farklıdır. YANGIN PERDE olarak, mimari projenize ve yangın senaryonuza uygun özel çözümler sunuyoruz.",
+        "services": {
+            "consulting": {
+                "title": "Proje Danışmanlığı",
+                "description": "Proje ölçeğinize ve ihtiyaçlarınıza göre ürün seçimi, teknik detay ve uygulama stratejisi konularında danışmanlık veriyoruz."
+            },
+            "customProduction": {
+                "title": "Özel Üretim",
+                "description": "Standart ölçülerin ötesinde, projenize özel boyut, renk ve malzemelerde üretim yapıyoruz."
+            },
+            "getQuote": {
+                "title": "Teklif İsteyin",
+                "description": "Taleplerinizi paylaşın; size özel çözüm önerimizi ve detaylı fiyat teklifimizi hazırlayalım."
+            }
+        },
+        "ctaContact": "İletişime Geçin",
+        "ctaTitle": "Projeniz için bir sonraki adımı atalım",
+        "ctaSubtitle": "Özel çözüm ihtiyaçlarınızı birlikte değerlendirelim. Uzman ekibimiz sizinle iletişime geçsin."
+    },
+    "projects": {
+        "title": "Referanslar",
+        "subtitle": "Başarıyla tamamlanan projelerimizden örnekler",
+        "filter": {
+            "all": "Tümü",
+            "residential": "Konut",
+            "commercial": "Ticari",
+            "hotel": "Otel & AVM",
+            "villa": "Endüstriyel"
+        },
+        "viewProject": "Projeyi İncele"
+    },
+    "contact": {
+        "title": "İletişim",
+        "subtitle": "Sizinle iletişime geçmek için sabırsızlanıyoruz",
+        "getInTouch": "Bize Ulaşın",
+        "form": {
+            "name": "Ad Soyad",
+            "email": "E-posta",
+            "phone": "Telefon",
+            "subject": "Konu",
+            "message": "Mesajınız",
+            "messagePlaceholder": "Mesajınızı buraya yazın...",
+            "submit": "Gönder",
+            "sending": "Gönderiliyor...",
+            "success": "Mesajınız başarıyla gönderildi!",
+            "successDesc": "En kısa sürede sizinle iletişime geçeceğiz.",
+            "error": "Bir hata oluştu. Lütfen tekrar deneyin.",
+            "recaptchaRequired": "Lütfen robot olmadığınızı doğrulayın",
+            "sendAnother": "Başka Mesaj Gönder"
+        },
+        "info": {
+            "title": "İletişim Bilgileri",
+            "address": "Hamidiye Mah. Kemerburgaz Cad. No: 152/6, Kağıthane - İstanbul, Türkiye",
+            "phone": "0212 294 82 80",
+            "mobile": "0532 294 34 36",
+            "email": "info@yanginperde.com",
+            "workingHours": "Çalışma Saatleri",
+            "weekdays": "Pazartesi - Cumartesi: 09:00 - 18:00",
+            "weekend": "Pazar: Kapalı"
+        }
+    },
+    "legal": {
+        "privacy": {
+            "title": "Gizlilik Politikası",
+            "lastUpdated": "Son güncelleme"
+        },
+        "terms": {
+            "title": "Kullanım Koşulları",
+            "lastUpdated": "Son güncelleme"
+        }
+    },
+    "common": {
+        "loading": "Yükleniyor...",
+        "error": "Bir hata oluştu",
+        "backToHome": "Ana Sayfaya Dön",
+        "learnMore": "Daha Fazla",
+        "seeAll": "Tümünü Gör",
+        "readMore": "Devamını Oku"
+    },
+    "outdoor": {
+        "meta": {
+            "title": "Yangın Perdeleri | YANGIN PERDE",
+            "description": "Yangın Perdesi, Duman Perdesi, Konveyör Sistemler. Yangın güvenliği için profesyonel çözümler."
+        },
+        "title": "Yangın Sistemleri",
+        "subtitle": "EN 12101-1 standartlarına uygun, E120 ve DH60 sınıfı sertifikalı yangın ve duman kontrol sistemleri ile yapılarınızı güvence altına alın.",
+        "getQuote": "Teklif Alın",
+        "productsTitle": "Yangın Güvenliği İçin Sertifikalı Çözümler",
+        "ctaPrimary": "SİSTEMLERİMİZ",
+        "ctaSecondary": "TEKNİK DETAYLAR",
+        "badge": "YANGIN GÜVENLİK TEKNOLOJİLERİ",
+        "viewDetails": "Ürün Detayları",
+        "ctaTitle": "Güvenilir, estetik ve dayanıklı çözümler.",
+        "ctaSubtitle": "Profesyonel ekibimiz sizin için en doğru çözümü belirlesin.",
+        "ctaButton": "Ücretsiz Danışmanlık Alın"
+    },
+    "indoor": {
+        "meta": {
+            "title": "Duman Kontrol Sistemleri | YANGIN PERDE",
+            "description": "Sabit Duman Perdeleri, Otomatik Duman Perdeleri. Duman tahliyesi ve kontrolü için profesyonel çözümler."
+        },
+        "title": "Duman Kontrol Sistemleri",
+        "subtitle": "Sabit Duman Perdeleri, Otomatik Duman Perdeleri ve Duman Tahliye Sistemleri",
+        "getQuote": "Teklif Alın",
+        "productsTitle": "Duman Yayılımını Önleyen Sistemler",
+        "productsSubtitle": "Yangın anında dumanın yayılmasını önleyerek güvenli kaçış koridorları oluşturan duman kontrol sistemlerimizi keşfedin.",
+        "viewDetails": "Ürün Detayları",
+        "ctaTitle": "Yaşam alanlarınız için güvenli ve fonksiyonel çözümler.",
+        "ctaSubtitle": "Uzman ekibimiz mekanınıza en uygun duman kontrol sistemini belirlesin.",
+        "ctaButton": "Ücretsiz Danışmanlık Alın"
+    }
+}
