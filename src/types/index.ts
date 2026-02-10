@@ -123,7 +123,6 @@ export interface CompanyInfo {
         postalCode?: string;
     };
     phone: string;
-    mobile: string;
     email: string;
     website: string;
     socialMedia: {

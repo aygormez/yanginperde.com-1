@@ -61,7 +61,6 @@ export default function ContactPageClient({ locale }: { locale: Locale }) {
                                     <div>
                                         <h3 className="font-display text-sm font-bold text-foreground uppercase tracking-wider mb-2">{t("info.phone")}</h3>
                                         <a href={`tel:${COMPANY_INFO.phone.replace(/\s/g, "")}`} className="text-sm text-muted-foreground hover:text-primary transition-colors block">{COMPANY_INFO.phone}</a>
-                                        <a href={`tel:${COMPANY_INFO.mobile.replace(/\s/g, "")}`} className="text-sm text-muted-foreground hover:text-primary transition-colors block">{COMPANY_INFO.mobile}</a>
                                     </div>
                                 </div>
                             </motion.div>

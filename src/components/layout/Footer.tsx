@@ -132,7 +132,6 @@ export function Footer() {
                                 </svg>
                                 <div className="text-sm text-muted-foreground">
                                     <a href={`tel:${COMPANY_INFO.phone.replace(/\s/g, "")}`} className="hover:text-primary transition-colors block">{COMPANY_INFO.phone}</a>
-                                    <a href={`tel:${COMPANY_INFO.mobile.replace(/\s/g, "")}`} className="hover:text-primary transition-colors block">{COMPANY_INFO.mobile}</a>
                                 </div>
                             </div>
                             {/* Email */}
