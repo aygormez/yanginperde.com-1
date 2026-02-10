@@ -43,7 +43,6 @@ export default function ContactPageClient({ locale }: { locale: Locale }) {
                                     <div>
                                         <h3 className="font-display text-sm font-bold text-foreground uppercase tracking-wider mb-2">{t("info.address")}</h3>
                                         <p className="text-sm text-muted-foreground leading-relaxed">
-                                            {COMPANY_INFO.address.street}<br />
                                             {COMPANY_INFO.address.district}, {COMPANY_INFO.address.city}
                                         </p>
                                     </div>

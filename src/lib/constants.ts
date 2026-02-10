@@ -6,9 +6,9 @@ import { CategoryInfo, CompanyInfo, Statistic } from "@/types";
 
 export const COMPANY_INFO: CompanyInfo = {
     name: "YANGIN PERDE",
-    legalName: "YMA Yapı Sistemleri San. ve Tic. Ltd. Şti.",
+    legalName: "",
     address: {
-        street: "Hamidiye Mah. Kemerburgaz Cad. No: 152/6",
+        street: "",
         district: "Kağıthane",
         city: "İstanbul",
         country: "Türkiye",
