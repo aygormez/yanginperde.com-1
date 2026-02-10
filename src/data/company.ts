@@ -65,7 +65,7 @@ export const timeline = [
     },
   },
   {
-    year: 2024,
+    year: 2026,
     title: { tr: "Dijital Dönüşüm", en: "Digital Transformation", de: "Digitale Transformation", es: "Transformación Digital", fr: "Transformation Numérique", ar: "التحول الرقمي" },
     description: {
       tr: "Akıllı ev sistemleri entegrasyonumuzu tamamladık.",

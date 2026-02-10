@@ -90,7 +90,6 @@ npm run start
 
 - **Website:** [yanginperde.com](https://yanginperde.com)
 - **Email:** info@yanginperde.com
-- **Telefon:** 0212 294 82 80
 
 ## 🤖 Otomatik Deploy (CI/CD)
 

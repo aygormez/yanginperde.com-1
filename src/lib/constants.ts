@@ -13,7 +13,6 @@ export const COMPANY_INFO: CompanyInfo = {
         city: "İstanbul",
         country: "Türkiye",
     },
-    phone: "0212 294 82 80",
     email: "info@yanginperde.com",
     website: "https://yanginperde.com",
     socialMedia: {

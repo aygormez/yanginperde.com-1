@@ -18,7 +18,6 @@ export function generateOrganizationSchema() {
         logo: `${DEFAULT_SEO_CONFIG.siteUrl}/images/logo.svg`,
         contactPoint: {
             "@type": "ContactPoint",
-            telephone: COMPANY_INFO.phone,
             contactType: "customer service",
             availableLanguage: ["Turkish", "English"],
         },
@@ -46,7 +45,6 @@ export function generateLocalBusinessSchema() {
         image: `${DEFAULT_SEO_CONFIG.siteUrl}/images/logo.svg`,
         "@id": COMPANY_INFO.website,
         url: COMPANY_INFO.website,
-        telephone: COMPANY_INFO.phone,
         address: {
             "@type": "PostalAddress",
             streetAddress: COMPANY_INFO.address.street,

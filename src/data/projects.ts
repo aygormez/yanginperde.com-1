@@ -22,7 +22,7 @@ export const projects: Project[] = [
             ar: "تم تطبيق 50 وحدة من ستائر الحريق الأوتوماتيكية من فئة E120 لفصل مناطق الحريق في مبنى الركاب. تم استخدام أنظمة محركات خاصة مناسبة لهيكل السقف العالي.",
         },
         location: "İstanbul, Arnavutköy",
-        year: 2024,
+        year: 2026,
         products: ["yangin-perdesi", "duman-perdesi"],
         images: [
             "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?w=800&h=600&fit=crop", // Industrial/Airport vibe
@@ -80,7 +80,7 @@ export const projects: Project[] = [
             ar: "تم استخدام ستائر الحريق الأفقية في مناطق الفناء التي توفر الإضاءة الطبيعية لمنع انتشار الحريق بين الطوابق. تم تنفيذ تركيب مخفي مناسب للجماليات المعمارية.",
         },
         location: "İstanbul, Pendik",
-        year: 2024,
+        year: 2026,
         products: ["yatay-yangin-perdesi"],
         images: [
             "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop", // Modern office atrium

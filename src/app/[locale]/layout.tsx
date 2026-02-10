@@ -29,7 +29,6 @@ const organizationSchema = {
     logo: "https://yanginperde.com/images/logo.svg",
     contactPoint: {
         "@type": "ContactPoint",
-        telephone: COMPANY_INFO.phone,
         contactType: "customer service",
         areaServed: "TR",
         availableLanguage: ["Turkish", "English"],
